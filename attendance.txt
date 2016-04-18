@@ -2,7 +2,6 @@ April 18, 2016
 
 Cohort12 - Lecture Attendance
 
-Jacob Tran
 Yii Van Tay
 Matthew Israelson
 Ly (Jane) Wong
@@ -19,3 +18,4 @@ Denis Trinh
 Luc Hyatt
 Frank Liu
 Lucas Cheung
+Quan Lee
