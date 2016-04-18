@@ -19,3 +19,6 @@ Luc Hyatt
 Frank Liu
 Lucas Cheung
 Quan Lee
+
+
+presenter: Jacob Tran
